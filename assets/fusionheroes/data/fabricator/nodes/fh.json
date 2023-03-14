@@ -1,0 +1,10 @@
+{
+  "display": {
+    "name": "FusionHeroes",
+    "description": "Thanks for downloading FusionHeroes, checkout Fusion Terror on YouTube!",
+    "icon": {
+      "texture": "fusionheroes:textures/gui/nodes/fh_node.png"
+    }
+  },
+  "requirements": []
+}

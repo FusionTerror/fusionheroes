@@ -1,0 +1,17 @@
+{
+  "parent": "fiskheroes:hero_speedster",
+  "resources": {
+    "layer1": "fusionheroes:speed_demon_layer1",
+    "layer2": "fusionheroes:speed_demon_layer2"
+  },
+  "custom": {
+    "fiskheroes:trail": {
+      "type": "fusionheroes:speed_demon",
+      "conditionals": ["vars:SPEEDING"]
+    },
+    "fiskheroes:vibration": {
+      "applicable": ["HELMET", "CHESTPLATE", "LEGGINGS", "BOOTS"],
+      "conditionals": ["vars:SPEEDING"]
+    }
+  }
+}

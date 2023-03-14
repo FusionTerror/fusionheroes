@@ -1,0 +1,6 @@
+Heropack Developers: Fusion Terror
+Textures: Fusion Terror
+
+Thanks to:
+- Fisk for creating the Fisk's Superheroes mod and allowing us to develop our own custom content.
+- Heropack Central Discord for support while I encountered errors.

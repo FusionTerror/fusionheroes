@@ -1,0 +1,33 @@
+{
+  "name": "Super Speed",
+  "modifiers": {
+    "fiskheroes:energy_projection": {
+      "damageProfile": {
+        "damage": 4.0,
+        "types": {
+          "BLUNT": 1.0
+        },
+        "properties": {
+          "ADD_KNOCKBACK": 0.5
+        }
+      },
+      "range": 1.0,
+      "radius": 0.5
+    },
+    "fiskheroes:super_speed": {
+      "canUseTreadmill": true
+    },
+    "fiskheroes:slow_motion": {},
+    "fiskheroes:arrow_catching": {},
+    "fiskheroes:regeneration": {
+      "factor": 5
+    },
+    "fiskheroes:potion_immunity": {
+      "potionEffects": [
+        "minecraft:nausea",
+        "minecraft:poison",
+        "minecraft:wither"
+      ]
+    }
+  }
+}

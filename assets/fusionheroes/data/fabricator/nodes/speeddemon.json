@@ -1,0 +1,10 @@
+{
+  "suit": "fusionheroes:speeddemon",
+  "requirements": [
+    "fiskheroes:tier4_5",
+    "fiskheroes:traversal2",
+    "fiskheroes:regeneration2",
+    "fiskheroes:melee",
+    "fusionheroes:fh"
+  ]
+}
