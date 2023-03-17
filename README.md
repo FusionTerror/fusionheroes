@@ -25,6 +25,8 @@ This is a heropack (addon) for [Fisk's Superheroes](https://www.curseforge.com/m
 |            Speed Demon             |  Speed Demon (Avengers Assemble)   |
 | :--------------------------------: | :--------------------------------: |
 | ![](https://imgur.com/UVDURvI.png) | ![](https://imgur.com/6LtLV5c.png) |
+|               Namor                |      Namor (The Sub-Mariner)       |
+| ![](https://imgur.com/KFufdwm.png) | ![](https://imgur.com/QM7cSaH.png) |
 
 ## FAQ ⁉️
 

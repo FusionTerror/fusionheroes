@@ -1,12 +1,15 @@
 {
-  "name": "Fusion Heroes",
-  "description": "Heropack created by Fusion Terror",
-  "domain": "fusionheroes",
-  "packFormat": 1,
-  "watermark": "&n&4Fusion &5Heroes",
-  "alts": {
-    "fusionheroes:speed_demon": {
-      "aa": "Avengers Assemble"
-    }
-  }
+	"name": "Fusion Heroes",
+	"description": "Heropack created by Fusion Terror",
+	"domain": "fusionheroes",
+	"packFormat": 1,
+	"watermark": "&n&4Fusion &5Heroes",
+	"alts": {
+		"fusionheroes:speed_demon": {
+			"aa": "Avengers Assemble"
+		},
+		"fusionheroes:namor": {
+			"tsm": "The Sub-Mariner"
+		}
+	}
 }

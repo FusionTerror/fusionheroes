@@ -2,6 +2,11 @@ Heropack Developers: Fusion Terror
 Textures:
  - (Speed Demon): Fusion Terror [Skin & Items]
  - (Namour): yayo_ramirez [Skin], Fusion Terror [Items]
+ - (Namour TSM): Gatlin_ [Skin], Fusion Terror [Items]
+ - (Trident): Duvain_Feynorim.
+
+Models:
+- (Trident): Duvain_Feynorim.
 
 Thanks to:
 - Fisk for creating the Fisk's Superheroes mod and allowing us to develop our own custom content.
