@@ -1,0 +1,55 @@
+{
+    "name": "Atlantean Physiology",
+    "modifiers": {
+        "fiskheroes:water_breathing": {},
+        "fiskheroes:controlled_flight": {
+            "speed": 0.1,
+            "boostSpeed": 0.25,
+            "canBoost": true,
+            "collision": {
+                "blocks": {
+                    "stopFlying": false,
+                    "takeDamage": false
+                },
+                "entities": {
+                    "stopFlying": false,
+                    "dealDamage": true
+                }
+            },
+            "knockback": 0.4,
+            "soundEvents": {
+                "ENABLE": [
+                    "fiskheroes:flight_loop",
+                    "fiskheroes:flight_cape_loop"
+                ],
+                "BOOST": "fiskheroes:flight_boost"
+            }
+        },
+        "fiskheroes:damage_resistance": {
+            "damageType": "COLD",
+            "factor": 0.5
+        },
+        "fiskheroes:damage_weakness": {
+            "damageType": "FIRE",
+            "factor": 2.0
+        },
+        "fiskheroes:regeneration": {
+            "factor": 1.5
+        },
+        "fiskheroes:projectile_immunity": {},
+        "fiskheroes:leaping": {},
+        "fiskheroes:shield": {
+            "shield": {
+                "health": 80.0,
+                "regeneration": 8.0,
+                "recoveryDelay": 15,
+                "cooldown": 100
+            },
+            "knockback": 0.2,
+            "isToggle": true,
+            "soundEvents": {
+                "DEFLECT": "fiskheroes:shield_deflect"
+            }
+        }
+    }
+}

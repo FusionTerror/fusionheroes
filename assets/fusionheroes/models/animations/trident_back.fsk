@@ -1,0 +1,4 @@
+{handle_base_rotZ} -= 0.45
+{handle_base_rotY} -= 1.45
+{handle_base_posZ} -= -3.0
+{handle_base_posY} -= -3.0

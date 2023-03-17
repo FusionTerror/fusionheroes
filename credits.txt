@@ -1,5 +1,7 @@
 Heropack Developers: Fusion Terror
-Textures: Fusion Terror
+Textures:
+ - (Speed Demon): Fusion Terror [Skin & Items]
+ - (Namour): yayo_ramirez [Skin], Fusion Terror [Items]
 
 Thanks to:
 - Fisk for creating the Fisk's Superheroes mod and allowing us to develop our own custom content.

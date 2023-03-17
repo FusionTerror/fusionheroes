@@ -1,0 +1,15 @@
+{
+    "suit": "fusionheroes:namor",
+    "requirements": [
+      "fiskheroes:tier6_7",
+      "fiskheroes:melee2",
+      "fiskheroes:flight",
+      "fiskheroes:ranged2",
+      "fiskheroes:defense2",
+      "fiskheroes:vibranium",
+      "fiskheroes:regeneration",
+      "fiskheroes:black_panther",
+      "fusionheroes:fh"
+    ]
+  }
+  

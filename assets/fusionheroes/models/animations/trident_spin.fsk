@@ -1,0 +1,4 @@
+{handle_base_rotX} += 2pi*{data}
+{handle_base_rotZ} -= 0.2
+{handle_base_posX} -= 3.0
+{handle_base_posY} -= -10

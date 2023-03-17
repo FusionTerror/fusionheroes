@@ -1,0 +1,4 @@
+{handle_base_rotX} -= -1.50
+{handle_base_posY} -= -11
+{handle_base_posZ} -= 4.0
+{handle_base_posX} -= 1.0
