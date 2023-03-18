@@ -1,0 +1,15 @@
+{
+    "suit": "fusionheroes:killmonger",
+    "requirements": [
+      "fiskheroes:tier6_7",
+      "fiskheroes:wakanda",
+      "fiskheroes:vibranium",
+      "fiskheroes:traversal",
+      "fiskheroes:regeneration",
+      "fiskheroes:defense2",
+      "fiskheroes:melee2",
+      "fiskheroes:black_panther",
+      "fusionheroes:fh"
+    ]
+  }
+  
